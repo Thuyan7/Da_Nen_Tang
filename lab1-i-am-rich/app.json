@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "I Am Rich",
+    "slug": "i-am-rich",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1c1c2b"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourname.iamrich"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
