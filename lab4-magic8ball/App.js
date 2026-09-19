@@ -8,10 +8,6 @@ import {
   SafeAreaView,
 } from 'react-native';
 
-// LAB 4 - CHALLENGE 1: MAGIC 8 BALL
-// Đây là bài tự làm (challenge), áp dụng lại kiến thức về useState đã học
-// ở Lab 3 (Dicee): mỗi lần chạm vào quả cầu, chọn NGẪU NHIÊN 1 câu trả
-// lời trong danh sách và cập nhật state để hiển thị lên màn hình.
 
 const ANSWERS = [
   'Chắc chắn rồi!',
