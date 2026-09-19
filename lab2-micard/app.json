@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "MiCard",
+    "slug": "mi-card",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#39424e"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourname.micard"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
