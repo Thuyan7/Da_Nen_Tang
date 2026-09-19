@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Dicee",
+    "slug": "dicee",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1b262c"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourname.dicee"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
