@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Magic 8 Ball",
+    "slug": "magic-8-ball",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0d0d0d"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourname.magic8ball"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
