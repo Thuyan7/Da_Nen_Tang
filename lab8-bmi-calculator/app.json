@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "BMI Calculator",
+    "slug": "bmi-calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0a0e27"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourname.bmicalculator"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
