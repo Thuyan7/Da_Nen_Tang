@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Quizzler",
+    "slug": "quizzler",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1b1b2f"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourname.quizzler"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
